@@ -1,6 +1,6 @@
 ## About me
 
-I am a Computer Science Ph.D. candidate at [Ohler lab](https://ohlerlab.mdc-berlin.de) at [Max Delbrück Center for Molecular Medicine](https://www.mdc-berlin.de) and [Technical University of Berlin](https://www.tu.berlin/en/). I am also affiliated with the [HEIBRiDS](http://heibrids.berlin/) Data Science Ph.D. program. 
+Data Scientist with 3+ years of experience working across different roles within Data & Analytics. Skilled in SQL, Python, Machine Learning techniques, Looker, and A/B testing. Holder of a PhD in Computational Engineering from [university of Southampton](https://www.southampton.ac.uk). I am a Computer Science Ph.D. candidate at [Ohler lab](https://ohlerlab.mdc-berlin.de) at [Max Delbrück Center for Molecular Medicine](https://www.mdc-berlin.de) and [Technical University of Berlin](https://www.tu.berlin/en/). I am also affiliated with the [HEIBRiDS](http://heibrids.berlin/) Data Science Ph.D. program. 
 
 
 

@@ -17,6 +17,6 @@ Skilled in Data Analysis & Visualisation, Project & Stakeholder Management. Proa
 
 ## Publications
 
-* [Journal] [Intricacies of single-cell multi-omics data integration](https://doi.org/10.1016/j.tig.2021.08.012) (Pia Rautenstrauch, Anna Hendrika Cornelia Vlot, Sepideh Saran and Uwe Ohler) Trends in Genetics, 2021
+* [Journal] [Pinching of gel-filled honeycomb]([https://doi.org/10.1016/j.tig.2021.08.012](https://www.sciencedirect.com/science/article/pii/S002076832200230X)) (FaezehShalchyJennyCarlssonVikramDeshpandeNormanFleckPia Rautenstrauch, Anna Hendrika Cornelia Vlot, Sepideh Saran and Uwe Ohler) Trends in Genetics, 2021
 
 * [Workshop] [An Empirical Analysis of Uncertainty Estimation in Genomics Applications](http://bayesiandeeplearning.org/2021/papers/74.pdf) (Sepideh Saran, Mahsa Ghanbari and Uwe Ohler) Bayesian Deep Learning workshop at NeurIPS 2021 

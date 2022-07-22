@@ -3,8 +3,6 @@
 Data Scientist with 3+ years of experience working across different roles within Data & Analytics. Skilled in SQL, Python, Machine Learning techniques, Looker, and A/B testing. Holder of a PhD in Computational Engineering from [university of Southampton](https://www.southampton.ac.uk). I am also affiliated with the [Cambridge university](https://www.cam.ac.uk). 
 Enthusiastic Data Scientist, using commercial acumen with data analytics to solve problems and drive strategic advantages. 
 
-Completed an MSc in Data Science with Queen Mary University of London through a Degree Apprenticeship whilst working with British Airways.
-
 Skilled in Data Analysis & Visualisation, Project & Stakeholder Management. Proactive self-starter, logical and solution focused professional with a Bachelor of Science - BSc focused in MORSE (Mathematics, Operational Research, Statistics & Economics) from University of Southampton.
 
 
@@ -17,6 +15,6 @@ Skilled in Data Analysis & Visualisation, Project & Stakeholder Management. Proa
 
 ## Publications
 
-* [Journal] [Pinching of gel-filled honeycomb]([https://doi.org/10.1016/j.tig.2021.08.012](https://www.sciencedirect.com/science/article/pii/S002076832200230X)) (FaezehShalchyJennyCarlssonVikramDeshpandeNormanFleckPia Rautenstrauch, Anna Hendrika Cornelia Vlot, Sepideh Saran and Uwe Ohler) Trends in Genetics, 2021
+* [Journal] [Pinching of gel-filled honeycomb](https://www.sciencedirect.com/science/article/pii/S002076832200230X) (FaezehShalchyJennyCarlssonVikramDeshpandeNormanFleckPia Rautenstrauch, Anna Hendrika Cornelia Vlot, Sepideh Saran and Uwe Ohler) Trends in Genetics, 2021
 
 * [Workshop] [An Empirical Analysis of Uncertainty Estimation in Genomics Applications](http://bayesiandeeplearning.org/2021/papers/74.pdf) (Sepideh Saran, Mahsa Ghanbari and Uwe Ohler) Bayesian Deep Learning workshop at NeurIPS 2021 
